@@ -1,0 +1,4 @@
+# 本地数据库不进 repo，每台机器自己建
+trends.db
+__pycache__/
+*.pyc
